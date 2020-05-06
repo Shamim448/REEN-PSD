@@ -1,0 +1,544 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  /* ===Global CSS Start Here=== */
+  .title h2{
+    font-size: 30px;
+  }
+  .title p{
+    font-size: 15px;
+    line-height: 20px;
+  }
+/* ===Global CSS End Here=== */
+  .header-section .social-icon-top{
+    text-align: center;
+    padding: 25px 0;
+    } 
+  .header-section .social-icon-top .social-icons{
+    float: none;
+    }
+  .header-section .main-menu .navbar{
+      padding: 15px 10px;
+  }
+  .header-section .main-menu .navbar-nav .nav-item{
+    margin-left: 0px;
+  }
+  .header-section .main-menu .navbar-nav .nav-item a{
+    font-size: 15px;
+    line-height: 24px;
+    padding: 2px 0;
+  }
+  .hero-section .carousel-item .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1% !important;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block !important;
+  }
+  .hero-section .hero-text{
+    padding: 0 1px;
+  }
+  .hero-section .hero-text h1{
+    font-size: 20px;
+  }
+  .hero-section .hero-text p{
+      font-size: 9px;
+      line-height: 11px;
+      margin-bottom: 6px;
+  }
+  .hero-section .hero-text .btn-info{
+      margin-top: 0;
+      font-size: 9px;
+      font-weight: 700;
+      padding: 5px 20px;
+  }
+  .about-section {
+    padding: 50px 0;
+  }
+  .about-section .title {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .about-section .about-content .media {
+    margin: 10px 0;
+  }
+  .about-section .about-content .media .media-body h5 {
+    font-size: 21px;
+  }
+  .about-section .about-content .media .media-body {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .latest-work{
+    padding: 50px 0;
+  }
+  .latest-work .title{
+    margin-bottom: 30px;
+    }
+
+  .latest-work .work-inner img{}
+  .latest-work .work-content{
+      padding: 3px 0;
+      margin-bottom: 20px;
+  }
+  .latest-work .work-content h6{
+      padding: 14px 0 5px;
+      margin: 0px;
+      font-size: 15px;
+  }
+  .latest-work .work-content p{
+    font-size: 12px;
+    margin: 0 0 10px;
+  }
+  .cta-section{
+    padding: 50px 0;
+  }
+  .cta-section .btn-info{
+    margin-top: 18px;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 7px 20px;
+}
+.footer-section .who-we-are{
+  margin-bottom: 20px;
+}
+.footer-section .letest-work{
+  margin-bottom: 20px;
+}
+.footer-section .get-in-touch{
+  margin-bottom: 20px;
+}
+.footer-section .free-updates{
+  margin-bottom: 20px;
+}
+.footer-section h4{
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.footer-section .who-we-are img{
+  margin-bottom: 15px;
+  width: 70px;
+}
+.footer-section .who-we-are p{
+  font-size: 10px;
+  line-height: 15px;
+}
+.footer-section .who-we-are a{
+  font-size: 11px;
+}
+.footer-section .get-in-touch p{
+  font-size: 10px;
+  line-height: 15px;
+  margin-bottom: 5px;
+}
+.footer-section .get-in-touch address{
+  font-size: 10px;
+  line-height: 15px;
+}
+.footer-section .get-in-touch address i{
+  font-size: 10px;
+  width: 15px;
+  height: 15px;
+}
+.footer-section .free-updates p{
+  font-size: 10px;
+  line-height: 15px;
+}
+.footer-section .free-updates .form-inline .form-group .form-control{
+  font-size: 11px;
+  padding: 9px 10px;
+}
+.footer-section .free-updates .form-inline .form-group .btn-primary{
+font-size: 10px;
+font-weight: 700;
+padding: 5px 9px;
+
+}
+.footer-bottom{
+  margin-top: 20px;
+  padding: 8px 0;
+  text-align: center;
+}
+.footer-bottom p{
+  font-size: 12px;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+.footer-bottom .nav .nav-item .nav-link{
+  font-size: 12px;
+  padding: 5px 11px;
+}
+.footer-bottom .nav {
+  justify-content: center !important;
+}
+    
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    /* ===Global CSS Start Here=== */
+    .title h2{
+      font-size: 35px;
+    }
+    .title p{
+      font-size: 18px;
+      line-height: 22px;
+    }
+/* ===Global CSS End Here=== */
+  .header-section .social-icon-top{
+    text-align: center;
+    padding: 25px 0;
+    } 
+  .header-section .social-icon-top .social-icons{
+    float: none;
+    } 
+    .header-section .main-menu .navbar{
+      padding: 15px 10px;
+  }
+  .header-section .main-menu .navbar-nav .nav-item{
+    margin-left: 0px;
+  }
+  .header-section .main-menu .navbar-nav .nav-item a{
+    font-size: 15px;
+    line-height: 24px;
+    padding: 2px 0;
+  }
+  .hero-section .carousel-item .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 6% !important;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block !important;
+  }
+  .hero-section .hero-text{
+    padding: 0 1px;
+  }
+  .hero-section .hero-text h1{
+    font-size: 30px;
+  }
+  .hero-section .hero-text p{
+      font-size: 15px;
+      line-height: 20px;
+      margin-bottom: 5px;
+  }
+  .hero-section .hero-text .btn-info{
+      margin-top: 10px;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 29px;
+  }
+  .about-section {
+    padding: 50px 0;
+  }
+  .about-section .title {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .about-section .about-content .media {
+    margin: 10px 0;
+  }
+  .about-section .about-content .media .media-body h5 {
+    font-size: 23px;
+  }
+  .about-section .about-content .media .media-body {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .latest-work{
+    padding: 50px 0;
+  }
+  .latest-work .title{
+    margin-bottom: 30px;
+    }
+
+  .latest-work .work-inner img{}
+  .latest-work .work-content{
+      padding: 3px 0;
+      margin-bottom: 30px;
+  }
+  .latest-work .work-content h6{
+      padding: 14px 0 5px;
+      margin: 0px;
+      font-size: 17px;
+  }
+  .latest-work .work-content p{
+    font-size: 13px;
+    margin: 0 0 10px;
+  }
+  .cta-section{
+    padding: 50px 0;
+  }
+  .cta-section .btn-info{
+    margin-top: 18px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 8px 25px;
+}
+.footer-section .who-we-are{
+  margin-bottom: 20px;
+}
+.footer-section .letest-work{
+  margin-bottom: 20px;
+}
+.footer-section .get-in-touch{
+  margin-bottom: 20px;
+}
+.footer-section .free-updates{
+  margin-bottom: 20px;
+}
+.footer-section h4{
+  font-size: 13px;
+  margin-bottom: 13px;
+}
+.footer-section .who-we-are img{
+  margin-bottom: 15px;
+  width: 100px;
+}
+.footer-section .who-we-are p{
+  font-size: 13px;
+  line-height: 15px;
+}
+.footer-section .who-we-are a{
+  font-size: 13px;
+}
+
+.footer-section .get-in-touch p{
+  font-size: 13px;
+  line-height: 17px;
+  margin-bottom: 5px;
+}
+.footer-section .get-in-touch address{
+  font-size: 13px;
+  line-height: 17px;
+}
+.footer-section .get-in-touch address i{
+  font-size: 11px;
+  width: 15px;
+  height: 15px;
+}
+.footer-section .free-updates p{
+  font-size: 13px;
+  line-height: 15px;
+}
+.footer-section .free-updates .form-inline .form-group .form-control{
+  font-size: 11px;
+  padding: 9px 10px;
+}
+.footer-section .free-updates .form-inline .form-group .btn-primary{
+font-size: 10px;
+font-weight: 700;
+padding: 5px 9px;
+
+}
+.footer-bottom{
+  margin-top: 20px;
+  padding: 8px 0;
+  text-align: center;
+}
+.footer-bottom p{
+  font-size: 13px;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+.footer-bottom .nav .nav-item .nav-link{
+  font-size: 13px;
+  padding: 5px 13px;
+}
+.footer-bottom .nav {
+  justify-content: center !important;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  .title h2{
+    font-size: 40px;
+  }
+  .title p{
+    font-size: 20px;
+    line-height: 24px;
+  }
+/* ===Global CSS End Here=== */
+.header-section .social-icon-top{
+  text-align: center;
+  padding: 25px 0;
+  } 
+.header-section .social-icon-top .social-icons{
+  float: none;
+  } 
+  .header-section .main-menu .navbar{
+    padding: 15px 10px;
+}
+.header-section .main-menu .navbar-nav .nav-item{
+  margin-left: 0px;
+}
+.header-section .main-menu .navbar-nav .nav-item a{
+  font-size: 15px;
+  line-height: 24px;
+  padding: 2px 0px;
+}
+.fa-search{}
+.hero-section .carousel-item .carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 10% !important;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.hero-section .hero-text{
+  padding: 0 1px;
+}
+.hero-section .hero-text h1{
+  font-size: 48px;
+}
+.hero-section .hero-text p{
+    font-size: 23px;
+    line-height: 26px;
+}
+.hero-section .hero-text .btn-info{
+    margin-top: 18px;
+    font-size: 17px;
+    font-weight: 700;
+    padding: 12px 40px;
+}
+.about-section {
+  padding: 50px 0;
+}
+.about-section .title {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.about-section .about-content .media {
+  margin: 10px 0;
+}
+.about-section .about-content .media .media-body h5 {
+  font-size: 24px;
+}
+.about-section .about-content .media .media-body {
+  font-size: 15px;
+  line-height: 16px;
+}
+.latest-work{
+  padding: 50px 0;
+}
+.latest-work .title{
+  margin-bottom: 30px;
+  }
+
+.latest-work .work-inner img{}
+.latest-work .work-content{
+    padding: 3px 0;
+    margin-bottom: 40px;
+}
+.latest-work .work-content h6{
+    padding: 14px 0 5px;
+    margin: 0px;
+    font-size: 18px;
+}
+.latest-work .work-content p{
+  font-size: 14px;
+  margin: 0 0 10px;
+}
+.cta-section{
+  padding: 50px 0;
+}  
+.cta-section .btn-info{
+  margin-top: 18px;
+  font-size: 17px;
+  font-weight: 700;
+  padding: 10px 30px;
+}
+footer-section .who-we-are{
+  margin-bottom: 20px;
+}
+.footer-section .letest-work{
+  margin-bottom: 20px;
+}
+.footer-section .get-in-touch{
+  margin-bottom: 20px;
+}
+.footer-section .free-updates{
+  margin-bottom: 20px;
+}
+.footer-section h4{
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+.footer-section .who-we-are img{
+  margin-bottom: 15px;
+  width: 80px;
+}
+.footer-section .who-we-are p{
+  font-size: 12px;
+  line-height: 15px;
+}
+.footer-section .who-we-are a{
+  font-size: 13px;
+}
+
+.footer-section .get-in-touch p{
+  font-size: 12px;
+  line-height: 15px;
+  margin-bottom: 5px;
+}
+.footer-section .get-in-touch address{
+  font-size: 12px;
+  line-height: 15px;
+}
+.footer-section .get-in-touch address i{
+  font-size: 12px;
+  width: 15px;
+  height: 15px;
+}
+.footer-section .free-updates p{
+  font-size: 12px;
+  line-height: 15px;
+}
+.footer-section .free-updates .form-inline .form-group .form-control{
+    font-size: 11px;
+    padding: 9px 10px;
+}
+.footer-section .free-updates .form-inline .form-group .btn-primary{
+  font-size: 10px;
+  font-weight: 700;
+  padding: 5px 9px;
+
+}
+.footer-bottom{
+  margin-top: 50px;
+  padding: 8px 0;
+}
+.footer-bottom p{
+  font-size: 13px;
+  margin-top: 12px;
+}
+.footer-bottom .nav .nav-item .nav-link{
+  font-size: 13px;
+  padding: 12px 13px;
+}
+
+}
+
+
+
